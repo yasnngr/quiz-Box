@@ -1,2 +1,2 @@
 # First-Step
-I am learning javascript and this is my first app
+I am learning javascript and this is my first app.
